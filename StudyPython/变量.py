@@ -18,3 +18,12 @@ print(arr)
 #将字符串转成数字
 num = int("222")
 print(num)
+
+
+mode = 9/2
+
+mode2 = 9//2
+
+mi = 9**2
+
+print(mode,mode2, mi)
